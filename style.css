@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f0f0f0;
+    color: #ffffff;
+}
+b {
+    color: lightgreen;
+}
+form{
+    position: absolute;
+    top: 10%;
+}
+.btn{
+    color: white;
+    background-color: black;
+    border: 1px solid yellow;
+    padding: 5px 4px;
+    border-radius: 8px;
+    font-size: 1.2rem;
+}
+input{
+    width: 15%;
+    font-size: 1.2rem;
+}
+.pi{
+    color: white;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 30%;
+}
+#graph{
+    height: 400px;
+    width: 400px;
+}
